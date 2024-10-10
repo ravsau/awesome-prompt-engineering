@@ -1,5 +1,5 @@
-# awesome-prompt-engineering
-Prompt Engineering 
+# Prompt Engineering 
+
 
 
 
@@ -15,13 +15,13 @@ Six strategies for getting better results: https://platform.openai.com/docs/guid
 
 
 ### Websites: 
-PromptingGuide:  https://www.promptingguide.ai/techniques
-Anthropic Prompting Guide: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
-OpenAI Prompt Engineering Guide: https://platform.openai.com/docs/guides/prompt-engineering
+- PromptingGuide:  https://www.promptingguide.ai/techniques
+- Anthropic Prompting Guide: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview
+- OpenAI Prompt Engineering Guide: https://platform.openai.com/docs/guides/prompt-engineering
 
 
 ### Tools: 
-Anthropic Prompt Generator: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator
+- Anthropic Prompt Generator: https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/prompt-generator
 
 
 
